@@ -1,0 +1,34 @@
+.skillcontent{
+    display:flex
+}
+.skill_pic{
+    flex:0.5;
+    text-align: center;
+    justify-content: center;
+    margin-top: 80px;
+
+
+    /* top:40px;
+    left:70px; */
+   
+}
+
+.skill_pic>img{
+    height:300px;
+    width:500px;
+    border-radius: 100px;
+}
+.skillset{
+    flex:0.5;
+    max-width: 500px;
+    margin-top:45px;
+    color:white;
+    line-height: 50px;
+}
+.linear > MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate css-eglki6-MuiLinearProgress-root{
+    background-color: rgb(88,88,88)
+}
+.skillset > h1{
+    color:#2fcde9;
+    margin-bottom: 10px;
+}

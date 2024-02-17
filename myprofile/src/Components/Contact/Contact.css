@@ -1,0 +1,37 @@
+.contact_content{
+    margin-top: 80px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    line-height: 60px;
+
+}
+.mail >h3{
+    color:white;
+}
+.mail >h3>a{
+    color: #2fcde9;
+}
+.phone_no>h3{
+    color:white;
+
+}
+.phone_no>h3>a{
+    color:#2fcde9;
+
+}
+.logo{
+    display : flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.css-i4bv87-MuiSvgIcon-root{
+    
+    fill:white !important;
+    margin-left: 20px;
+    margin-right: 20px;
+}

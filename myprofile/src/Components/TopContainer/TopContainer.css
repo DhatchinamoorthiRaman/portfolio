@@ -1,0 +1,10 @@
+.bg_image{
+    position: relative;
+    background-image: url(../../assests/website2.jpg);
+    background-blend-mode:multiply ;
+    background-size: cover;
+    filter: blur(2px);
+    height: 100vh;
+    box-shadow: inset 0 0 0 2000px rgb(0,0,0,0.6);
+    z-index:-1;
+}
